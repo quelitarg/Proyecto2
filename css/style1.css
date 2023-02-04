@@ -1,0 +1,25 @@
+.link-tickets{
+    color: #17c9cf important;
+}
+.cards-container{
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+.valor-ticket{
+    text-transform: uppercase;
+    color: rgb(65, 140, 225);
+}
+
+#btnBorrar, #btnResumen{
+    background: #cf7017 important;
+    border: #79cf17 important;
+}
+
+
+footer{
+    background:  #e8d317 important;
+}
+footer div ul li a{
+    color: rgb(230, 168, 43) important;
+}
+
